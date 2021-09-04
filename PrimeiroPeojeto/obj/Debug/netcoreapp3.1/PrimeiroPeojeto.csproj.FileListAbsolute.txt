@@ -1,0 +1,13 @@
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\.git\AprendendoCSharp\PrimeiroPeojeto\bin\Debug\netcoreapp3.1\PrimeiroPeojeto.exe
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\.git\AprendendoCSharp\PrimeiroPeojeto\bin\Debug\netcoreapp3.1\PrimeiroPeojeto.deps.json
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\.git\AprendendoCSharp\PrimeiroPeojeto\bin\Debug\netcoreapp3.1\PrimeiroPeojeto.runtimeconfig.json
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\.git\AprendendoCSharp\PrimeiroPeojeto\bin\Debug\netcoreapp3.1\PrimeiroPeojeto.runtimeconfig.dev.json
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\.git\AprendendoCSharp\PrimeiroPeojeto\bin\Debug\netcoreapp3.1\PrimeiroPeojeto.dll
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\.git\AprendendoCSharp\PrimeiroPeojeto\bin\Debug\netcoreapp3.1\PrimeiroPeojeto.pdb
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\.git\AprendendoCSharp\PrimeiroPeojeto\obj\Debug\netcoreapp3.1\PrimeiroPeojeto.csprojAssemblyReference.cache
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\.git\AprendendoCSharp\PrimeiroPeojeto\obj\Debug\netcoreapp3.1\PrimeiroPeojeto.AssemblyInfoInputs.cache
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\.git\AprendendoCSharp\PrimeiroPeojeto\obj\Debug\netcoreapp3.1\PrimeiroPeojeto.AssemblyInfo.cs
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\.git\AprendendoCSharp\PrimeiroPeojeto\obj\Debug\netcoreapp3.1\PrimeiroPeojeto.csproj.CoreCompileInputs.cache
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\.git\AprendendoCSharp\PrimeiroPeojeto\obj\Debug\netcoreapp3.1\PrimeiroPeojeto.dll
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\.git\AprendendoCSharp\PrimeiroPeojeto\obj\Debug\netcoreapp3.1\PrimeiroPeojeto.pdb
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\.git\AprendendoCSharp\PrimeiroPeojeto\obj\Debug\netcoreapp3.1\PrimeiroPeojeto.genruntimeconfig.cache
