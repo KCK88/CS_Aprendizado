@@ -1,0 +1,12 @@
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\AtribuicoesDeVariaveis.exe
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\AtribuicoesDeVariaveis.deps.json
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\AtribuicoesDeVariaveis.runtimeconfig.json
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\AtribuicoesDeVariaveis.runtimeconfig.dev.json
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\AtribuicoesDeVariaveis.dll
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\AtribuicoesDeVariaveis\bin\Debug\netcoreapp3.1\AtribuicoesDeVariaveis.pdb
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\AtribuicoesDeVariaveis.AssemblyInfoInputs.cache
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\AtribuicoesDeVariaveis.AssemblyInfo.cs
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\AtribuicoesDeVariaveis.csproj.CoreCompileInputs.cache
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\AtribuicoesDeVariaveis.dll
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\AtribuicoesDeVariaveis.pdb
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\AtribuicoesDeVariaveis\obj\Debug\netcoreapp3.1\AtribuicoesDeVariaveis.genruntimeconfig.cache

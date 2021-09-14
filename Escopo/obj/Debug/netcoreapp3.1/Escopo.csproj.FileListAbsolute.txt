@@ -1,0 +1,13 @@
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\Escopo\bin\Debug\netcoreapp3.1\Escopo.exe
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\Escopo\bin\Debug\netcoreapp3.1\Escopo.deps.json
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\Escopo\bin\Debug\netcoreapp3.1\Escopo.runtimeconfig.json
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\Escopo\bin\Debug\netcoreapp3.1\Escopo.runtimeconfig.dev.json
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\Escopo\bin\Debug\netcoreapp3.1\Escopo.dll
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\Escopo\bin\Debug\netcoreapp3.1\Escopo.pdb
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\Escopo\obj\Debug\netcoreapp3.1\Escopo.csprojAssemblyReference.cache
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\Escopo\obj\Debug\netcoreapp3.1\Escopo.AssemblyInfoInputs.cache
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\Escopo\obj\Debug\netcoreapp3.1\Escopo.AssemblyInfo.cs
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\Escopo\obj\Debug\netcoreapp3.1\Escopo.csproj.CoreCompileInputs.cache
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\Escopo\obj\Debug\netcoreapp3.1\Escopo.dll
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\Escopo\obj\Debug\netcoreapp3.1\Escopo.pdb
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\Escopo\obj\Debug\netcoreapp3.1\Escopo.genruntimeconfig.cache

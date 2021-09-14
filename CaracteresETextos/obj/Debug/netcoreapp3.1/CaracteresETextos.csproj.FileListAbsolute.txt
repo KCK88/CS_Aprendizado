@@ -1,0 +1,13 @@
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CaracteresETextos\bin\Debug\netcoreapp3.1\CaracteresETextos.exe
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CaracteresETextos\bin\Debug\netcoreapp3.1\CaracteresETextos.deps.json
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CaracteresETextos\bin\Debug\netcoreapp3.1\CaracteresETextos.runtimeconfig.json
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CaracteresETextos\bin\Debug\netcoreapp3.1\CaracteresETextos.runtimeconfig.dev.json
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CaracteresETextos\bin\Debug\netcoreapp3.1\CaracteresETextos.dll
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CaracteresETextos\bin\Debug\netcoreapp3.1\CaracteresETextos.pdb
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CaracteresETextos\obj\Debug\netcoreapp3.1\CaracteresETextos.csprojAssemblyReference.cache
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CaracteresETextos\obj\Debug\netcoreapp3.1\CaracteresETextos.AssemblyInfoInputs.cache
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CaracteresETextos\obj\Debug\netcoreapp3.1\CaracteresETextos.AssemblyInfo.cs
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CaracteresETextos\obj\Debug\netcoreapp3.1\CaracteresETextos.csproj.CoreCompileInputs.cache
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CaracteresETextos\obj\Debug\netcoreapp3.1\CaracteresETextos.dll
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CaracteresETextos\obj\Debug\netcoreapp3.1\CaracteresETextos.pdb
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CaracteresETextos\obj\Debug\netcoreapp3.1\CaracteresETextos.genruntimeconfig.cache

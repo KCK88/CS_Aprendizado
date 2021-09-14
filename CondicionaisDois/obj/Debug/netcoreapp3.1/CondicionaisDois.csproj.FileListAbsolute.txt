@@ -1,0 +1,12 @@
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CondicionaisDois\bin\Debug\netcoreapp3.1\CondicionaisDois.exe
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CondicionaisDois\bin\Debug\netcoreapp3.1\CondicionaisDois.deps.json
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CondicionaisDois\bin\Debug\netcoreapp3.1\CondicionaisDois.runtimeconfig.json
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CondicionaisDois\bin\Debug\netcoreapp3.1\CondicionaisDois.runtimeconfig.dev.json
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CondicionaisDois\bin\Debug\netcoreapp3.1\CondicionaisDois.dll
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CondicionaisDois\bin\Debug\netcoreapp3.1\CondicionaisDois.pdb
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CondicionaisDois\obj\Debug\netcoreapp3.1\CondicionaisDois.AssemblyInfoInputs.cache
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CondicionaisDois\obj\Debug\netcoreapp3.1\CondicionaisDois.AssemblyInfo.cs
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CondicionaisDois\obj\Debug\netcoreapp3.1\CondicionaisDois.csproj.CoreCompileInputs.cache
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CondicionaisDois\obj\Debug\netcoreapp3.1\CondicionaisDois.dll
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CondicionaisDois\obj\Debug\netcoreapp3.1\CondicionaisDois.pdb
+D:\Alura_cursos\Alura_CS\C#_e_orientação_a_objetos\AprendendoCSharp\CondicionaisDois\obj\Debug\netcoreapp3.1\CondicionaisDois.genruntimeconfig.cache
